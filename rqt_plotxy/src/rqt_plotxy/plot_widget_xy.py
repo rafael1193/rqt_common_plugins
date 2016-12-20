@@ -32,7 +32,7 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 from python_qt_binding.QtCore import qWarning, Slot
-from python_qt_binding.QtGui import QLabel, QLineEdit
+from python_qt_binding.QtWidgets import QLabel, QLineEdit
 
 import rospy
 
